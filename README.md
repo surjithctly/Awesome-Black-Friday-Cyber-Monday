@@ -2,7 +2,7 @@
 
 Curated list of deals on Black Friday 2022. Feel free to add your app's deal below with a Pull Request. First come, first merged.
 
-Follow the discount emoji as below:
+Follow the discount emoji as below
 
 | Emoji | Discount Percentage |
 | :---: | ------: |
@@ -10,7 +10,6 @@ Follow the discount emoji as below:
 |  💰   |  20% → 50% |
 |  🤑   |  >= 50% |
 
-Don't forget to give this repo a star! ⭐ 🤩
 
 ## 👨‍💻 Developer Tools
 
@@ -25,6 +24,8 @@ Don't forget to give this repo a star! ⭐ 🤩
 |  🤑 | [LaunchBuddy](https://apple.co/3iFcjjW) | Manage your Indie Apps, Projects, Releases and Tasks. | >50% OFF for LaunchBuddy Pro (Small) |
 |  🤑 | [BladeMail.app](https://blademail.app) | Desktop app for email testing locally. | 50% OFF with code **BLACKFRIDAY** |
 |  🤑 | [Tinker2.app](https://tinker2.app) |  Easily write some testing code without tickling your source code, locally or via SSH (PHP, Laravel, WordPress and more). | 50% OFF with code **BLACKFRIDAY** |
+|  💰 | [Web3Forms](https://web3forms.com) | Contact Form API for static websites. | 30% OFF on Pro upgrade with code **BLACKFRIDAY** |
+|  💰 | [Web3Templates](https://web3templates.com) | Premium Website Templates built with Next.js, Tailwind CSS, Sanity CMS, Astro | 40% OFF with code **BLACKFRIDAY** |
 
 ## 🚀 Productivity
 |  | Name | Description | Discount Code & Terms |
